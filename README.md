@@ -6,3 +6,5 @@ Bitte die entsprechenden Lizenzierungen von jquery und co. beachten.
 -------------------------------------------------------
 
 Viel Spaß beim gemeinsamen Spielen!
+
+Bei Problemen => stadt-land-fluss@support.philipprogramm.de
